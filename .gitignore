@@ -2,6 +2,8 @@
 rpc/build
 build
 .cache
+**/.cache
+**/build
 # tests
 
 # Ignore CMake generated files
