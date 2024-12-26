@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jsy/learn/learnCMake/ipp/build/A",
+  "command": "/usr/bin/c++  -I/home/jsy/learn/learnCMake/ipp/B/include -I/home/jsy/learn/learnCMake/ipp/C/include -std=gnu++17 -o CMakeFiles/a.dir/a.cpp.o -c /home/jsy/learn/learnCMake/ipp/A/a.cpp",
+  "file": "/home/jsy/learn/learnCMake/ipp/A/a.cpp"
+},
+{
+  "directory": "/home/jsy/learn/learnCMake/ipp/build/B",
+  "command": "/usr/bin/c++  -I/home/jsy/learn/learnCMake/ipp/B/include -I/home/jsy/learn/learnCMake/ipp/C/include -std=gnu++17 -o CMakeFiles/b.dir/src/b.cpp.o -c /home/jsy/learn/learnCMake/ipp/B/src/b.cpp",
+  "file": "/home/jsy/learn/learnCMake/ipp/B/src/b.cpp"
+},
+{
+  "directory": "/home/jsy/learn/learnCMake/ipp/build/C",
+  "command": "/usr/bin/c++  -I/home/jsy/learn/learnCMake/ipp/C/include -std=gnu++17 -o CMakeFiles/c.dir/src/c.cpp.o -c /home/jsy/learn/learnCMake/ipp/C/src/c.cpp",
+  "file": "/home/jsy/learn/learnCMake/ipp/C/src/c.cpp"
+}
+]
